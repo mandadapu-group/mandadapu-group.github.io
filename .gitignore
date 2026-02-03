@@ -1,0 +1,17 @@
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Bundler
+.bundle/
+vendor/
+
+# OS / editor
+.DS_Store
+*.swp
+*.tmp
+.vscode/
+
+# Logs
+*.log

@@ -27,3 +27,13 @@ A plain Jekyll site designed for a clean, old-school academic group page. It use
 - GitHub Pages typically builds from the `master` branch and the repository root for user/organization sites.
 - The workflow in `.github/workflows/jekyll-docker.yml` runs `jekyll build` in a Docker container on pushes to `master` as a build check (it does not deploy).
 - No unsupported plugins are used, so the site is GitHub Pages compatible.
+
+**Local Preview (Bundler)**
+- `bundle install`
+- `bundle exec jekyll serve`
+
+**Docker Preview**
+- `docker run --rm -it -p 4000:4000 -v "$PWD":/srv/jekyll jekyll/builder:latest /bin/bash -lc "bundle install && bundle exec jekyll serve --host 0.0.0.0"`
+
+**Notes**
+- `Gemfile.lock` is committed to keep local builds aligned with the `github-pages` dependency set. GitHub Pages still uses its own pinned versions during deployment.
