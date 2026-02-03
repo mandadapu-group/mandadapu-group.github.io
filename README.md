@@ -29,11 +29,12 @@ A plain Jekyll site designed for a clean, old-school academic group page. It use
 - No unsupported plugins are used, so the site is GitHub Pages compatible.
 
 **Local Preview (Bundler)**
+- Use a modern Ruby (rbenv/asdf recommended; avoid macOS system Ruby).
 - `bundle install`
 - `bundle exec jekyll serve`
 
 **Docker Preview**
-- `docker run --rm -it -p 4000:4000 -v "$PWD":/srv/jekyll jekyll/builder:latest /bin/bash -lc "bundle install && bundle exec jekyll serve --host 0.0.0.0"`
+- `docker run --rm -it -p 4000:4000 -v "$PWD":/srv/jekyll -w /srv/jekyll jekyll/jekyll:pages jekyll serve --host 0.0.0.0`
 
 **Notes**
-- `Gemfile.lock` is committed to keep local builds aligned with the `github-pages` dependency set. GitHub Pages still uses its own pinned versions during deployment.
+- `Gemfile.lock` is not tracked to avoid Bundler/Ruby version pinning issues; GitHub Pages uses its own pinned versions during deployment.
