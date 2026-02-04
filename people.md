@@ -1,6 +1,6 @@
 ---
 layout: default
-title: People
+title: Co-workers
 ---
 
 # Co-workers
