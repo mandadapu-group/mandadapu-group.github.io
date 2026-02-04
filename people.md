@@ -3,8 +3,6 @@ layout: default
 title: Co-workers
 ---
 
-# Co-workers
-
 I am working (or have worked) very closely with the following:
 
 ## Ph.D. Students
