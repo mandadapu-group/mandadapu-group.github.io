@@ -31,9 +31,8 @@ a:hover {
 
 .page {
   display: flex;
-  max-width: var(--max-width);
   min-height: 100vh;
-  margin: 0 auto;
+  width: 100%;
 }
 
 .sidebar {
@@ -65,6 +64,10 @@ a:hover {
   padding: 28px 36px 40px;
 }
 
+.content-inner {
+  max-width: var(--max-width);
+}
+
 .content h1 {
   margin-top: 0;
   font-size: 1.7rem;
@@ -88,8 +91,8 @@ a:hover {
 
 .footer-inner {
   max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 14px 20px;
+  margin-left: 240px;
+  padding: 14px 36px;
   text-align: right;
 }
 
@@ -113,6 +116,8 @@ a:hover {
   }
 
   .footer-inner {
+    margin-left: 0;
+    padding: 14px 20px;
     text-align: left;
   }
 }
