@@ -36,7 +36,7 @@ a:hover {
 }
 
 .sidebar {
-  width: 240px;
+  width: 300px;
   padding: 28px 20px;
   background: var(--sidebar-bg);
   border-right: 1px solid var(--border);
@@ -91,7 +91,7 @@ a:hover {
 
 .footer-inner {
   max-width: var(--max-width);
-  margin-left: 240px;
+  margin-left: 300px;
   padding: 14px 36px;
   text-align: right;
 }

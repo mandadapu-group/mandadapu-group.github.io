@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: Homepage of Kranthi Mandadapu
 ---
 
 I am an associate professor in the Department of Chemical and Biomolecular Engineering (CBE) at UC Berkeley.
