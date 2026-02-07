@@ -3,6 +3,25 @@ layout: default
 title: Homepage of Kranthi Mandadapu
 ---
 
+<div class="homepage-intro">
+  <p class="homepage-photo">
+    <img src="{{ site.baseurl }}/assets/images/Website_picture.jpg" alt="Mandadapu Group website photo">
+  </p>
+
+  <section class="homepage-affiliations" aria-label="Affiliations">
+    <h2>Affiliations</h2>
+    <ul>
+      <li>Free Radicals Era Endowed Chair</li>
+      <li>Associate Professor</li>
+      <li>Chemical and Biomolecular Engineering</li>
+      <li>University of California Berkeley</li>
+      <li>Pitzer Center for Theoretical Chemistry, College of Chemistry</li>
+      <li>Biophysics Program, University of California Berkeley</li>
+      <li>Faculty Scientist, Chemical Sciences Division, Lawrence Berkeley Laboratory</li>
+    </ul>
+  </section>
+</div>
+
 I am an associate professor in the Department of Chemical and Biomolecular Engineering (CBE) at UC Berkeley.
 
 I am a theorist and my interests broadly lie in understanding the physical behaviors of systems at multiple length and time scales. My research is at the intersection of statistical mechanics, continuum mechanics (fluid and solid mechanics), and applied mathematics.
@@ -21,13 +40,3 @@ For some more information about me, please see my [CV]({{ site.baseurl }}/cv.htm
 
 Email: kranthi@berkeley.edu
 kranthi.k.mandadapu@gmail.com
-
-## Affiliations
-
-- Free Radicals Era Endowed Chair
-- Associate Professor
-- Chemical and Biomolecular Engineering
-- University of California Berkeley
-- Pitzer Center for Theoretical Chemistry, College of Chemistry
-- Biophysics Program, University of California Berkeley
-- Faculty Scientist, Chemical Sciences Division, Lawrence Berkeley Laboratory
