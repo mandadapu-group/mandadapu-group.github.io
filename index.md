@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage of Kranthi Mandadapu
+title: Homepage of Kranthi K. Mandadapu
 ---
 
 <div class="homepage-intro">
@@ -11,13 +11,18 @@ title: Homepage of Kranthi Mandadapu
   <section class="homepage-affiliations" aria-label="Affiliations">
     <h2>Affiliations</h2>
     <ul>
-      <li>Free Radicals Era Endowed Chair</li>
       <li>Associate Professor</li>
       <li>Chemical and Biomolecular Engineering</li>
       <li>University of California Berkeley</li>
       <li>Pitzer Center for Theoretical Chemistry, College of Chemistry</li>
-      <li>Biophysics Program, University of California Berkeley</li>
+      <li>Biophysics Graduate Program, University of California Berkeley</li>
       <li>Faculty Scientist, Chemical Sciences Division, Lawrence Berkeley Laboratory</li>
+    </ul>
+
+    <h3>Contact</h3>
+    <ul class="homepage-contact-list">
+      <li><a href="mailto:kranthi@berkeley.edu">kranthi@berkeley.edu</a></li>
+      <li><a href="mailto:kranthi.k.mandadapu@gmail.com">kranthi.k.mandadapu@gmail.com</a></li>
     </ul>
   </section>
 </div>
@@ -35,8 +40,3 @@ Currently, I work with problems in the field of physics of soft and living syste
 - Physical principles governing amorphous systems and glassy dynamics
 
 For some more information about me, please see my [CV]({{ site.baseurl }}/cv.html).
-
-## Contact
-
-Email: kranthi@berkeley.edu
-kranthi.k.mandadapu@gmail.com

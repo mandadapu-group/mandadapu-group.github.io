@@ -6,21 +6,27 @@ title: Co-workers
 I am working (or have worked) very closely with the following:
 
 ## Ph.D. Students
-- Ahmad Alkadri
 - Jafar Farhadi
-- Alhad Deshpande
 - Joshua Fernandes
+- Sanket Biswas
+- Apurva Bhardwaj
 
 ## Post-Docs
 - Hyeongjoo Row
-- Ashesh Ghosh
 - Sanggeun Song
-- Elizabeth Dresselhaus
+- Sirui Ning
+- Ahmad Alkadri
+- Manish Gupta
 
 ## Other Active Co-workers
 - Tyler Kharazi
+- Mason Rodgers (Undergraduate Researcher)
 
 ## Previous Co-workers
+- **Ashesh Ghosh** (Post-doc) — Associate Patent Engineer · Schox Patent Group
+- **Ahmad Alkadri** (Ph.D. in Chemical Engg.) — Currently post-doctoral scholar at UC Berkeley
+- **Alhad Deshpande** (Ph.D. in Chemical Engg.)
+- **Elizabeth Dresselhaus** (Post-doc) — Asst. Prof., Institute for Sustainable Chiral Matter, Hiroshima University, Japan
 - **Yannick Omar** (Ph.D. in Chemical Engg.) — To join as Post-doctoral scholar at MIT (Chem Engg and Physics)
 - **Muhammad Hasyim** (Ph.D. in Chemical Engg.) — To join as Simons Post-doc Fellow at NYU and Columbia (Chemistry)
 - **Alison Lui** (Ph.D. in Chemical Engg.)
@@ -39,7 +45,9 @@ I am working (or have worked) very closely with the following:
 - **Katherine Klymko** (Post-doc) — Staff Scientist in Algorithms Group NERSC @ LBNL
 - **Dimitrios Fraggedakis** (Miller Post-doc) — At UC Berkeley and to join Princeton as Asst. Prof. (2024)
 - **Lila Sarfati** (Masters Intern) — Pursuing Ph.D. at U Paris Diederot (Physics)
+- **Arun Kamath** (Undergraduate) — Pursuing Ph.D. at MIT
 - **Bernardo Gouveia** (Undergraduate) — Pursuing Ph.D. at Princeton University (Chemical Engineering)
+- **Ravtej Kaur** (Undergraduate) — Pursuing Ph.D. at Princeton University
 - **Chatipat Loraipaboon** (Undergraduate) — Pursuing Ph.D. at U. Chicago (Chemistry)
 - **Zihan Wang** (Undergraduate)
 - **Alec Glisman** (Undergraduate) — Pursuing Ph.D. at Caltech (Chemical Engineering)
