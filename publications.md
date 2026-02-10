@@ -3,23 +3,23 @@ layout: default
 title: Publications
 ---
 
-1. Fernandes, J. B., Row, H., Mandadapu, K. K., and Shekhar, K., Electrochemical response of biological membranes to localized currents and external electric fields, **Physical Review Research**, 8, 013137 (2026).
+1. Fernandes, J. B., Row, H., Mandadapu, K. K., and Shekhar, K., Electrochemical response of biological membranes to localized currents and external electric fields, **Physical Review Research**, 8, 013137 (2026), **arXiv**:2508.14001.
 2. Lunn, O. D., Downs, J. G., Smith, N. D., Mandadapu, K. K., Garrahan, J. P., and Smith, M. I., Direct observation of the orderphobic effect, **arXiv**:2601.12935 (2026).
 3. Kharazi, T., Alkadri, A. M., Liu, J. P., Mandadapu, K. K., and Whaley, K. B., A Sublinear-Time Quantum Algorithm for High-Dimensional Reaction Rates, **arXiv**:2601.15523 (2026).
 4. Dresselhaus, E. J., Hellebrand, S., Roy, R., Mandadapu, K. K., and Govindjee, S., Return point memory in knitted fabrics, **arXiv**:2512.02132 (2025).
 5. Dresselhaus, E. J., Govindjee, S., and Mandadapu, K. K., Anomalous tensorial properties of anisotropic 2D materials, **arXiv**:2508.20055 (2025).
 6. Deshpande, A., Hargus, C., Shekhar, K., and Mandadapu, K. K., Odd Viscodiffusive Fluids, **arXiv**:2411.04309.
-7. Farhadi, J., Fernandes, J. B., Shekhar, K., and Mandadapu, K. K., Spatiotemporal dynamics of ion reorganization at biological membrane interfaces, **Physical Review E**, 111, 064412 (2025).
-8. Kharazi, T., Alkadri, A. M., Liu, J. P., Mandadapu, K. K., and Whaley, K. B., Explicit block encodings of boundary value problems for many-body elliptic operators, **Quantum**, 9, 1764 (2025).
-9. Ghosh, A., Mandadapu, K. K., and Limmer, D. T., Exact statistics of helical wormlike chains with twist-bend coupling, **Physical Review E**, 112, 044403 (2025).
-10. Alkadri, A. M., and Mandadapu, K. K., The irreversible thermodynamics of curved lipid membranes II: Permeability and osmosis, **Physical Review E**, 112, 034413 (2025).
-11. Omar, Y. A. D., Lipel, Z. G., and Mandadapu, K. K., The 2 + δ dimensional theory of electromechanics of lipid membranes: III. Constitutive models, **Physical Review E**, 112, 024407 (2025).
-12. Omar, Y. A. D., Lipel, Z. G., and Mandadapu, K. K., The 2 + δ dimensional theory of electromechanics of lipid membranes: II. Balance laws, **Physical Review E**, 112, 024406 (2025).
-13. Hargus, C., Deshpande, A., Omar, A. K., and Mandadapu, K. K., The flux hypothesis for odd transport phenomena, **Physical Review Letters**, 134, 097105 (2025).
-14. Row, H., Fernandes, J. B., Mandadapu, K. K., and Shekhar, K., Spatiotemporal dynamics of ion reorganization at biological membrane interfaces, **Physical Review Research**, 7, 013185 (2025).
-15. Hasyim, M. R., and Mandadapu, K. K., Emergent facilitation and glassy dynamics in supercooled liquids, **Proceedings of National Academy of Sciences**, 121 (23), e2322592121 (2024).
+7. Farhadi, J., Fernandes, J. B., Shekhar, K., and Mandadapu, K. K., Spatiotemporal dynamics of ion reorganization at biological membrane interfaces, **Physical Review E**, 111, 064412 (2025), **arXiv**:2503.04677.
+8. Kharazi, T., Alkadri, A. M., Liu, J. P., Mandadapu, K. K., and Whaley, K. B., Explicit block encodings of boundary value problems for many-body elliptic operators, **Quantum**, 9, 1764 (2025), **arXiv**:2407.18347.
+9. Ghosh, A., Mandadapu, K. K., and Limmer, D. T., Exact statistics of helical wormlike chains with twist-bend coupling, **Physical Review E**, 112, 044403 (2025), **arXiv**:2408.08954.
+10. Alkadri, A. M., and Mandadapu, K. K., The irreversible thermodynamics of curved lipid membranes II: Permeability and osmosis, **Physical Review E**, 112, 034413 (2025), **arXiv**:2412.19300.
+11. Omar, Y. A. D., Lipel, Z. G., and Mandadapu, K. K., The 2 + δ dimensional theory of electromechanics of lipid membranes: III. Constitutive models, **Physical Review E**, 112, 024407 (2025), **arXiv**:2501.11612.
+12. Omar, Y. A. D., Lipel, Z. G., and Mandadapu, K. K., The 2 + δ dimensional theory of electromechanics of lipid membranes: II. Balance laws, **Physical Review E**, 112, 024406 (2025), **arXiv**:2309.03863.
+13. Hargus, C., Deshpande, A., Omar, A. K., and Mandadapu, K. K., The flux hypothesis for odd transport phenomena, **Physical Review Letters**, 134, 097105 (2025), **arXiv**:2405.08798.
+14. Row, H., Fernandes, J. B., Mandadapu, K. K., and Shekhar, K., Spatiotemporal dynamics of ion reorganization at biological membrane interfaces, **Physical Review Research**, 7, 013185 (2025), **arXiv**:2407.11947.
+15. Hasyim, M. R., and Mandadapu, K. K., Emergent facilitation and glassy dynamics in supercooled liquids, **Proceedings of National Academy of Sciences**, 121 (23), e2322592121 (2024), **arXiv**:2310.06584.
     - See commentary on this article: Costigliola, L., Hecksher, T., and Dyre, J. C., "Glass-forming liquids need facilitation", **Proceedings of National Academy of Sciences**, 121 (25), e2408798121 (2024).
-16. Omar, Y. A. D., Lipel, Z. G., and Mandadapu, K. K., The 2 + δ dimensional theory of electromechanics of lipid membranes: I. Electrostatics, **arXiv**:2301.09610.
+16. Omar, Y. A. D., Lipel, Z. G., and Mandadapu, K. K., The 2 + δ dimensional theory of electromechanics of lipid membranes: I. Electrostatics, **Physical Review E**, 109, 054401 (2024), **arXiv**:2301.09610.
 17. Fraggedakis, D., Hasyim, M. R., and Mandadapu, K. K., Inherent state melting and the onset of glassy dynamics in two-dimensional supercooled liquids, **Proceedings of National Academy of Sciences**, e2209144120 (2023), **arXiv**:2204.07528 (equal contribution).
 18. Cheikh, M. I., Tchoufag, J. T., Osterfield, M., Dean, K. M., Bhaduri, S. W., Zhang, C., Mandadapu, K. K., Doubrovinski, K., A comprehensive model of Drosophila epithelium reveals the role of embryo geometry and cell topology in mechanical responses, **eLife**, e85569 (2023).
 19. Hasyim, M. R., Batton, C. H., and Mandadapu, K. K., Supervised learning and the finite-temperature string method for computing committor functions and reaction rates, **Journal of Chemical Physics**, 157, 184111 (2022), **arXiv**:2107.13522 (equal contribution).
