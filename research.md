@@ -5,7 +5,7 @@ title: Research
 
 ## Research Overview
 
-My work is currently related to research in and at the intersection of the broader fields of statistical physics, biological physics, fluid and solid mechanics, notably known as soft condensed matter.
+My work is currently related to research in and at the intersection of the broader fields of statistical physics, biological physics, fluid and solid mechanics, notably known as soft condensed matter. I develop theory and computational methods to explain how collective behavior, in and far from equilibrium, emerges across scales in living and disordered systems.
 
 Currently, I work with the following problems:
 
