@@ -53,3 +53,4 @@ I am working (or have worked) very closely with the following:
 - **Alec Glisman** (Undergraduate) — Pursuing Ph.D. at Caltech (Chemical Engineering)
 - **Micheal Li** (Undergraduate) — Pursuing Ph.D. at MIT (Chemical Engineering)
 - **Lewis Pan** (Undergraduate) — Pursuing Ph.D. at UC Berkeley (Appplied Mathematics)
+- **Johannes Kristensen** (Undergraduate) — Currently pursuing M. Sc. in Math. & Theo. Phys. at U. Oxford
