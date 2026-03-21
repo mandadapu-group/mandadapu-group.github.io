@@ -1,0 +1,8 @@
+#!/bin/sh
+
+branch=$(git symbolic-ref --quiet --short HEAD 2>/dev/null || true)
+
+if [ "$branch" = "master" ]; then
+  echo "Warning: you are on 'master'. This repo should be edited on 'development'." >&2
+  echo "Switch back with: git switch development" >&2
+fi

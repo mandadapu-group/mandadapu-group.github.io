@@ -1,0 +1,8 @@
+#!/bin/sh
+
+branch=$(git symbolic-ref --quiet --short HEAD 2>/dev/null || true)
+
+if [ "$branch" = "master" ]; then
+  echo "Committing on 'master' is blocked in this repo. Switch to 'development' instead." >&2
+  exit 1
+fi
