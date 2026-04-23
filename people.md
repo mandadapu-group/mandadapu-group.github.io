@@ -20,7 +20,7 @@ I am working (or have worked) very closely with the following:
 
 ## Other Active Co-workers
 - Tyler Kharazi
-- Mason Rodgers (Undergraduate Researcher)
+- Navya Singh (Undergraduate Researcher)
 
 ## Previous Co-workers
 - **Ashesh Ghosh** (Post-doc) — Associate Patent Engineer · Schox Patent Group
@@ -51,6 +51,7 @@ I am working (or have worked) very closely with the following:
 - **Chatipat Loraipaboon** (Undergraduate) — Pursuing Ph.D. at U. Chicago (Chemistry)
 - **Zihan Wang** (Undergraduate)
 - **Alec Glisman** (Undergraduate) — Pursuing Ph.D. at Caltech (Chemical Engineering)
+- **Mason Rodgers** (Undergraduate) — Currently Ph.D. at Caltech
 - **Micheal Li** (Undergraduate) — Pursuing Ph.D. at MIT (Chemical Engineering)
 - **Lewis Pan** (Undergraduate) — Pursuing Ph.D. at UC Berkeley (Appplied Mathematics)
 - **Johannes Kristensen** (Undergraduate) — Currently pursuing M. Sc. in Math. & Theo. Phys. at U. Oxford
