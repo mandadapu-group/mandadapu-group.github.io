@@ -10,6 +10,7 @@ I am working (or have worked) very closely with the following:
 - Joshua Fernandes
 - Sanket Biswas
 - Apurva Bhardwaj
+- Johannes Kristensen
 
 ## Post-Docs
 - Hyeongjoo Row
